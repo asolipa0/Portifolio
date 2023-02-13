@@ -7,12 +7,9 @@ function projetos(section) {
         <div class="card">
           <h3>Módulos PI1</h3>
           <div class="img-wrapper">
-            <img
-              src="./assets/images/projects/links-modulos.pi1.png" 
-              alt="Imagem do projeto."
-            />
+          <img src="./assets/images/projects/modulos-pi1.png" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/asolipa1/Links-Modulos-PI1" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/asolipa1/Links-Módulos-PI1" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -42,19 +39,16 @@ function projetos(section) {
             </div>
           </div>
           <p>
-          Página dos Modulos Programador de Informatica.
+          Página dos Módulos PI1 Programador de Informatica.
           </p>
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
           <h3>Módulos PI2</h3>
           <div class="img-wrapper">
-            <img
-              src="./assets/images/projects/links-modulos.pi2.png"
-              alt="Imagem do projeto."
-            />
+          <img src="./assets/images/projects/modulos-pi2.png" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/asolipa1/Links-Modulos-PI2" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/asolipa1/Links-Módulos-PI2" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -84,14 +78,14 @@ function projetos(section) {
             </div>
           </div>
           <p>
-          Página dos Modulos Programador de Informatica.
+          Página dos Módulos PI2 Programador de Informatica.
           </p>
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
           <h3>Modulos PI3</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/links-modulos.pi3.png" alt="Imagem do projeto." />
+            <img src="./assets/images/projects/modulos-pi3.png" alt="Imagem do projeto." />
             <div class="buttons">
               <a href="https://github.com/asolipa1/Links-Modulos-PI3" target="_blank" title="Repositório no Github">
                 <svg
@@ -123,7 +117,7 @@ function projetos(section) {
             </div>
           </div>
           <p>
-          Página dos Modulos Programador de Informatica.
+          Página dos Módulos PI3 Programador de Informatica.
           </p>
           <p>HTML - CSS - JS</p>
         </div>
@@ -162,7 +156,7 @@ function projetos(section) {
             </div>
           </div>
           <p>
-          Página das certificações Programador de Informatica.
+          Página das Certificações Programador de Informatica.
           </p>
           <p>HTML - CSS - JS</p>
         </div>
@@ -240,7 +234,7 @@ function projetos(section) {
             </div>
           </div>
           <p>
-           Pagina dos trabalhos Programador de Informatica.
+           Pagina dos Trabalhos Programador de Informatica.
           </p>
           <p>HTML - CSS - JS</p>
         </div>
