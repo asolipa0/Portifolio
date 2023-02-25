@@ -43,10 +43,10 @@ Neste projeto apliquei os seguintes pontos:
 <table>
   <tr>
     <td>
-      <img src="https://github.com/asolipa1.png" width="100px" />
+      <img src="https://github.com/asolipa0.png" width="100px" />
     </td>
     <td>
-      Feito por <a href="https://github.com/asolipa1">António Solipa.</a> 
+      Feito por <a href="https://github.com/asolipa0">António Solipa.</a> 
     </td>
   </tr>
 </table>
